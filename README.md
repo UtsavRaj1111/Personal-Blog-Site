@@ -32,5 +32,13 @@ A minimal blog application built using [Flask](https://flask.palletsprojects.com
 ---
 
 ## 📂 File Structure
+my_project/
+│
+├── app.py
+└── templates/
+    └── template.html
+
+
+
 
 
